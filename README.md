@@ -1,8 +1,7 @@
-# App Weather API with React-Native Android
-![Scan Disini](https://github.com/frankzealot/weatherwidget/blob/master/qr.png)
-
-Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@frankzealot/weatherwidget
+# tugas2
+![Scan Disini]<br><br><src img"nala.png">
+Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/nalafisnia/weatherwidget
 
 Tugas 2 pemrograman mobile 
-- nim  : 2015150097
-- nama : Rahman hidayat
+- nim  : 2015150029
+- nama : Nala Fisnia
